@@ -38,6 +38,7 @@ device. Zero Android/iOS dev knowledge necessary.
 - [ ] Installed the GitHub CLI.
   - `winget install --id GitHub.cli` in terminal.
 - [ ] Logged in the GitHub CLI.
+  - `gh auth login`
 - [ ] Ran `gh repo create`?
   - The link after the message `Added remote` is your repository.
 - [ ] Enabled GitHub Pages in your repository?
