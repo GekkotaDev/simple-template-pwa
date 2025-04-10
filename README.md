@@ -11,13 +11,6 @@ device. Zero Android/iOS dev knowledge necessary.
   - If not, refer to https://developer.mozilla.org/en-US/docs/Web/CSS.
 - [ ] Understood the basics of JavaScript
   - If not, refer to https://javascript.info part 1; chapters 1 and 2.
-- Installed Node.js
-  - [ ] https://nodejs.org/en or...
-  - You may prefer to install it via `pnpm` to save on disk space when installing
-    additional dependencies.
-    - [ ] [`pnpm`](https://pnpm.io/installation)
-    - [ ] [Node.js](https://pnpm.io/cli/env#use)
-- [ ] Installed project dependencies (`pnpm i` or `npm i`)
 - [ ] Understood using Svelte
   - If not, refer to https://svelte.dev/tutorial/svelte/welcome-to-svelte
   - We use Svelte because despite what some people may say, it is not trivial
@@ -25,6 +18,13 @@ device. Zero Android/iOS dev knowledge necessary.
     the app itself is trivial to begin with. Frameworks like Svelte simplifies
     the way data is managed in your app, enables code reuse (and microtasking)
     via componentization, automatically binds your data and UI, etc.
+- Installed Node.js
+  - [ ] https://nodejs.org/en or...
+  - You may prefer to install it via `pnpm` to save on disk space when installing
+    additional dependencies.
+    - [ ] [`pnpm`](https://pnpm.io/installation)
+    - [ ] [Node.js](https://pnpm.io/cli/env#use)
+- [ ] Installed project dependencies (`pnpm i` or `npm i` at the root of your project folder)
 - [ ] Installed the required IDE or editor extensions
   - [ ] For VS Code (different from Visual Studio)
     - [ ] [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
