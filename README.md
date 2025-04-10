@@ -41,13 +41,13 @@ device. Zero Android/iOS dev knowledge necessary.
 - [ ] Ran `gh repo create`?
   - The link after the message `Added remote` is your repository.
 - [ ] Enabled GitHub Pages in your repository?
-  - [ ] https://github.com/\<username>/\<your-repository>/settings/pages
+  - [ ] https://github.com/\<username\>/\<your-repository\>/settings/pages
 - [ ] At the root of your project, ran `git init -b main`?
 - [ ] At the root of your project, ran `git add . && git commit -m '<commit message>'`?
   - The `.` means all files in the project.
 - [ ] Ran `git push origin main`?
   - This pushes the updated code from your computer to the repository.
-- You'll find your web app at https://\<username>.github.io/\<your-repository>/. It
+- You'll find your web app at https://\<username\>.github.io/\<your-repository\>/. It
   will be updated as you push changes to the repository.
 
 ### Instructions for Installing PWAs
