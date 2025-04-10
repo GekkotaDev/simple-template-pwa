@@ -17,7 +17,6 @@ device. Zero Android/iOS dev knowledge necessary.
     additional dependencies.
     - [ ] [`pnpm`](https://pnpm.io/installation)
     - [ ] [Node.js](https://pnpm.io/cli/env#use)
-- [ ] Modified the `.github/workflows/deploy.yml` as instructed if needed.
 - [ ] Installed project dependencies (`pnpm i` or `npm i`)
 - [ ] Understood using Svelte
   - If not, refer to https://svelte.dev/tutorial/svelte/welcome-to-svelte
@@ -30,8 +29,32 @@ device. Zero Android/iOS dev knowledge necessary.
   - [ ] For VS Code (different from Visual Studio)
     - [ ] [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
     - [ ] [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [ ] Modified the `.github/workflows/deploy.yml` as instructed if needed.
 - [ ] Have a GitHub account
   - You could deploy it to other platforms but GitHub Pages should keep things simple.
+- [ ] Installed Git.
+- [ ] Understood Git.
+  - If not, refer to [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/)
+- [ ] Installed the GitHub CLI.
+  - `winget install --id GitHub.cli` in terminal.
+- [ ] Logged in the GitHub CLI.
+- [ ] Ran `gh repo create`?
+  - The link after the message `Added remote` is your repository.
+- [ ] Enabled GitHub Pages in your repository?
+  - [ ] https://github.com/\<username>/\<your-repository>/settings/pages
+- [ ] At the root of your project, ran `git init -b main`?
+- [ ] At the root of your project, ran `git add . && git commit -m '<commit message>'`?
+  - The `.` means all files in the project.
+- [ ] Ran `git push origin main`?
+  - This pushes the updated code from your computer to the repository.
+- You'll find your web app at https://\<username>.github.io/\<your-repository>/. It
+  will be updated as you push changes to the repository.
+
+### Instructions for Installing PWAs
+
+- [Chrome](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DDesktop)
+- [Edge](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/ux)
+- [Vivaldi](https://help.vivaldi.com/desktop/miscellaneous/progressive-web-apps/)
 
 ### Additional Things to Know
 
