@@ -17,6 +17,7 @@ device. Zero Android/iOS dev knowledge necessary.
     additional dependencies.
     - [ ] [`pnpm`](https://pnpm.io/installation)
     - [ ] [Node.js](https://pnpm.io/cli/env#use)
+- [ ] Modified the `.github/workflows/deploy.yml` as instructed if needed.
 - [ ] Installed project dependencies (`pnpm i` or `npm i`)
 - [ ] Understood using Svelte
   - If not, refer to https://svelte.dev/tutorial/svelte/welcome-to-svelte
