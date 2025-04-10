@@ -7,6 +7,8 @@ export default defineConfig({
     sveltekit(),
 
     SvelteKitPWA({
+      spa: true,
+
       workbox: {
         globPatterns: ["**/*"],
       },
