@@ -1,0 +1,8 @@
+{
+  // VSCode Workspace settings. Not essential for the project itself.
+  "folders": [
+    {
+      "path": "..",
+    },
+  ],
+}
